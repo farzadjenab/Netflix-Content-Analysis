@@ -33,7 +33,7 @@ The dataset includes information about TV shows and movies available on Netflix,
 ## Setup Instructions
 1. Clone the repository:
 bash
-   git clone https://github.com/yourusername/netflix-content-analysis.git
+   git clone https://github.com/farzadjenab/Netflix-Content-Analysis.git
    
 2. Install the required packages:
 
